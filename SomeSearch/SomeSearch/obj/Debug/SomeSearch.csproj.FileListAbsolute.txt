@@ -1,0 +1,11 @@
+G:\github\SomeSearch\SomeSearch\bin\Debug\SomeSearch.exe.config
+G:\github\SomeSearch\SomeSearch\bin\Debug\SomeSearch.exe
+G:\github\SomeSearch\SomeSearch\bin\Debug\SomeSearch.pdb
+G:\github\SomeSearch\SomeSearch\obj\Debug\SomeSearch.exe
+G:\github\SomeSearch\SomeSearch\obj\Debug\SomeSearch.pdb
+G:\github\SomeSearch\SomeSearch\SomeSearch\bin\Debug\SomeSearch.exe.config
+G:\github\SomeSearch\SomeSearch\SomeSearch\obj\Debug\SomeSearch.exe
+G:\github\SomeSearch\SomeSearch\SomeSearch\obj\Debug\SomeSearch.pdb
+G:\github\SomeSearch\SomeSearch\SomeSearch\bin\Debug\SomeSearch.exe
+G:\github\SomeSearch\SomeSearch\SomeSearch\bin\Debug\SomeSearch.pdb
+G:\github\SomeSearch\SomeSearch\SomeSearch\obj\Debug\SomeSearch.csprojResolveAssemblyReference.cache
